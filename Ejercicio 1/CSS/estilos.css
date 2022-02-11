@@ -71,3 +71,43 @@ body{
     margin-left: 500px; 
     background-image: -webkit-linear-gradient(top, #fdf9fc, #e7b0e4);
 }
+
+
+#boton1{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Redressed', cursive;
+    font-size: 18px;
+    padding: 7px;
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 35px;
+}
+
+#boton2{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Redressed', cursive;
+    font-size: 18px;
+    padding: 7px;
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 35px;
+
+}
+
+#boton3{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Redressed', cursive;
+    font-size: 18px;
+    padding: 7px;
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 35px;
+    
+   
+}
+
+button[disabled=disabled], button:disabled {
+    cursor: not-allowed;
+    
+}
+
